@@ -1,0 +1,16 @@
+/*
+Theme Name: Digital Agency
+Theme URI: https://example.com/digital-agency
+Author: Abiram
+Author URI: https://example.com
+Description: A high-end, professional WordPress theme for a Digital Agency.
+Version: 1.1
+License: GNU General Public License v2 or later
+Text Domain: digital-agency
+*/
+
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
